@@ -130,7 +130,8 @@ footer {
     color: #000; /* Dark text for contrast */
     border-radius: 5px;
   }
-
-  
-  
-  
+  .custom-card {
+    background-color: #6c757d;
+    color: #fff; /* White text color */
+    border: none; /* Optional: Removes border for a cleaner look */
+  }
